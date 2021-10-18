@@ -1,0 +1,1298 @@
+{
+    "status": "true",
+    "member_list":[
+        {
+            "id": 1,
+            "img": "assets/Sunggyu/Sunggyu.jpg",
+            "name": "Kim Sung Kyu",
+            "korean_name": "김성규",
+            "dob": "1989-04-28",
+            "hometown": "Jeonju, South Korea",
+            "height": "178cm",
+            "blood_type": "A",
+            "position": "Leader, Main Vocal",
+            "nickname": "Leadergyu, Hamstergyu",
+            "instagram": "https://www.instagram.com/gyu357",
+            "twitter": "https://twitter.com/kyuzizi",
+            "discography":[
+                {
+                    "id":1,
+                    "album_name":"Another Me",
+                    "release_date": "2012-11-19",
+                    "img": "assets/Sunggyu/Another Me.jpg",
+                    "track": ["Another Me", "60초", "I Need You", "눈물만 (Acoustic Ver)", "Shine", "41일"]
+                },
+                {
+                    "id":2,
+                    "album_name":"27",
+                    "release_date": "2015-05-11",
+                    "img": "assets/Sunggyu/27.jpg",
+                    "track": ["27", "너여야만 해", "Alive", "Kontrol", "Daydream (feat. JW of Nell, Tablo of Epik High)", "답가 (feat. 박윤하)"]
+                },
+                {
+                    "id":3,
+                    "album_name":"10 Stories",
+                    "release_date": "2018-02-26",
+                    "img": "assets/Sunggyu/10 Stories.jpg",
+                    "track": ["뭐랬어 (feat. Punchnello)", "머물러줘", "True Love", "끌림", "지워지는 날들", "Till Sunrise (feat. JW of Nell)", "Sorry", "천사의 도시", "Sentimental", "거울"]
+                },
+                {
+                    "id":4,
+                    "album_name":"Oh My Baby OST",
+                    "release_date": "2020-06-10",
+                    "img": "assets/Sunggyu/Beautiful.jpg",
+                    "track": ["Beautiful", "Beautiful (Inst.)"]
+                },
+                {
+                    "id":5,
+                    "album_name":"말만해 (What You Want)",
+                    "release_date": "2013-10-25",
+                    "img": "assets/Sunggyu/What You Want.jpg"
+                },
+                {
+                    "id":6,
+                    "album_name":"Inside Me",
+                    "release_date": "2020-12-14",
+                    "img": "assets/Sunggyu/Inside Me.jpg",
+                    "track": ["INSIDE ME", "I'm Cold", "안녕 (Fade)", "Room", "DIVIN'", "Climax"]
+                },
+                {
+                    "id":7,
+                    "album_name":"Won't Forget You",
+                    "release_date": "2021-03-29",
+                    "img": "assets/Sunggyu/Wont Forget You.png",
+                    "track": ["HUSH", "You", "My Day"]
+                }
+            ],
+            "filmography":{
+                "drama":[
+                    {
+                        "id": 1,
+                        "title": "The Thousandth Man",
+                        "korean_title": "천 번째 남자",
+                        "year": "2012",
+                        "network": "MBC",
+                        "role": "Kim Sung Kyu",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Pure Love",
+                        "korean_title": "일말의 순정",
+                        "year": "2013",
+                        "network": "KBS",
+                        "role": "Lee Hoon (Young)",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Entourage",
+                        "korean_title": "안투라지",
+                        "year": "2016",
+                        "network": "tvN",
+                        "role": "",
+                        "note": "Cameo"
+                    }
+                ],
+                "musical": [
+                    {
+                        "id": 1,
+                        "title": "Gwanghwamun Sonata",
+                        "korean_title": "광화문연가",
+                        "year": ["2012"],
+                        "role": "Jiyoung"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Vampire",
+                        "korean_title": "뱀피이어",
+                        "year": ["2014"],
+                        "role": "Count Dracula"
+                    },
+                    {
+                        "id": 3,
+                        "title": "In the Heights",
+                        "korean_title": "인 더 하이츠",
+                        "year": ["2015", "2016", "2017"],
+                        "role": "Benny"
+                    },
+                    {
+                        "id": 4,
+                        "title": "All Shook Up",
+                        "korean_title": "올 슉 업",
+                        "year": ["2016"],
+                        "role": "Elvis"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Gwanghwamun Sonata",
+                        "korean_title": "광화문연가",
+                        "year": ["2017", "2018"],
+                        "role": "Myungwoo (young)"
+                    },
+                    {
+                        "id": 6,
+                        "title": "Amadeus",
+                        "korean_title": "아마데우스",
+                        "year": ["2018", "2020", "2021"],
+                        "role": "Wolfgang Amadeus Mozart"
+                    },
+                    {
+                        "id": 7,
+                        "title": "Shinheung Military School",
+                        "korean_title": "신흥무관학교",
+                        "year": ["2019"],
+                        "role": "Ji Chungchun"
+                    },
+                    {
+                        "id": 8,
+                        "title": "Return: The Promise of the Day",
+                        "korean_title": "귀환",
+                        "year": ["2019"],
+                        "role": "Woojoo"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Kinky Boots",
+                        "korean_title": "킹키부츠",
+                        "year": ["2020"],
+                        "role": "Charlie"
+                    }
+                ],
+                "variety_show":[
+                    {
+                        "id": 1,
+                        "title": "High Society",
+                        "korean_title": "이수근 김병만의 상류사회",
+                        "year": "2013",
+                        "network": "JTBC"
+                    },
+                    {
+                        "id": 2,
+                        "title": "The Genius: Rules of the Game",
+                        "korean_title": "더 지니어스: 게임의 법칙",
+                        "year": "2013",
+                        "network": "tvN"
+                    },
+                    {
+                        "id": 3,
+                        "title": "The Dreaming Sea",
+                        "korean_title": "바라던 바다",
+                        "year": "2013",
+                        "network": "KBS2"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Exciting India",
+                        "korean_title": "두근두근 인도",
+                        "year": "2015",
+                        "network": "KBS2"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Girl Spirit",
+                        "korean_title": "걸스피릿",
+                        "year": "2016",
+                        "network": "JTBC"
+                    },
+                    {
+                        "id": 6,
+                        "title": "Singderella",
+                        "korean_title": "싱데렐라",
+                        "year": "2016",
+                        "network": "Channel A"
+                    },
+                    {
+                        "id": 7,
+                        "title": "Living Together in Empty Room",
+                        "korean_title": "발칙한 동거 - 빈방 있음",
+                        "year": "2017",
+                        "network": "MBC"
+                    },
+                    {
+                        "id": 8,
+                        "title": "Like Likes Like",
+                        "korean_title": "끼리끼리",
+                        "year": "2020",
+                        "network": "MBC"
+                    }
+                ]
+            },
+            "tour":{
+                "concert":[
+                    {
+                        "id": 1,
+                        "title": "Shine Tour",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Seoul, South Korea",
+                                "venue": "Kyunghee University Grand Peace Palace",
+                                "date": "5 - 7 May 2018"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "Shine Encore Tour",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Seoul, South Korea",
+                                "venue": "SK Olympic Handball Gymnasium",
+                                "date": "7 - 9 Feb 2020"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Tokyo, Japan",
+                                "venue": "Toyosu PIT",
+                                "date": "22 - 23 Feb 2020"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Taipei, Taiwan",
+                                "venue": "TICC",
+                                "date": "21 - 22 Mar 2020 (Extended)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "title": "Ontact Concert 'The Day'",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "",
+                                "venue": "",
+                                "date": "15 Nov 2020"
+                            }
+                        ]
+                    }
+                ],
+                "fan_meeting":[
+                    {
+                        "id": 1,
+                        "title": "Kim Sung Kyu Mini Live & Fan Meeting",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Tokyo, Japan",
+                                "venue": "Zepp Tokyo",
+                                "date": "28 - 29 Sep 2017"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Namba, Japan",
+                                "venue": "Zepp Namba",
+                                "date": "24 Oct 2017"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Taipei, Taiwan",
+                                "venue": "Legacy Max",
+                                "date": "19 Nov 2017"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "ㅅㄱ Ontact Fanmeeting",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "",
+                                "venue": "",
+                                "date": "31 Oct - 1 Nov 2021"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "awards":[
+                {
+                    "year": "2015",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "7th MelOn Music Awards",
+                            "category": "Best Rock Song",
+                            "work": "The Answer"
+                        },
+                        {
+                            "id": 2,
+                            "award": "The 7th Philippines KPOP Awards",
+                            "category": "Best Solo Male Artist",
+                            "work": ""
+                        },
+                        {
+                            "id": 3,
+                            "award": "The 7th Philippines KPOP Awards",
+                            "category": "Best Collaboration of the Year",
+                            "work": "Daydream (feat. Tablo, Jongwan)"
+                        },
+                        {
+                            "id": 4,
+                            "award": "KPOP Meetings Germany Awards",
+                            "category": "Best Male Artist",
+                            "work": ""
+                        },
+                        {
+                            "id": 5,
+                            "award": "International K-Music Awards",
+                            "category": "Best Male Solo",
+                            "work": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "img": "assets/Dongwoo/Dongwoo.jpg",
+            "name": "Jang Dong Woo",
+            "korean_name": "장동우",
+            "dob": "1990-11-22",
+            "hometown": "Gyeonggi, South Korea",
+            "height": "175cm",
+            "blood_type": "A",
+            "position": "Main Rapper, Dancer",
+            "nickname": "Angel Dongwoo, Dinosaur",
+            "instagram": "https://www.instagram.com/ddong_gg0",
+            "twitter": "https://twitter.com/ddww1122",
+            "discography":[
+                {
+                    "id":1,
+                    "album_name":"Bye",
+                    "release_date": "2019-03-04",
+                    "img": "assets/Dongwoo/Bye.png",
+                    "track": ["I AM", "News", "GUN", "ROMEO", "Party Girl", "PERFECT", "Something Between"]
+                },
+                {
+                    "id":2,
+                    "album_name":"마음에묻다 (feat. 윤소윤)",
+                    "release_date": "2016-10-21",
+                    "img": "assets/Dongwoo/Embedded in mind.jpg"
+                },
+                {
+                    "id":3,
+                    "album_name":"7-2=오해",
+                    "release_date": "2014-11-19",
+                    "img": "assets/Dongwoo/7-2.jpg"
+                },
+                {
+                    "id":4,
+                    "album_name":"뼛속까지 아파",
+                    "release_date": "2015-08-27",
+                    "img": "assets/Dongwoo/hurt.jpg"
+                }
+            ],
+            "filmography":{
+                "drama":[
+                ],
+                "musical": [
+                    {
+                        "id": 1,
+                        "title": "In the Heights",
+                        "korean_title": "인 더 하이츠",
+                        "year": ["2015", "2016", "2017"],
+                        "role": "Usnavi"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Altar Boyz",
+                        "korean_title": "알타보이즈",
+                        "year": ["2018"],
+                        "role": "Luke"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Iron Mask",
+                        "korean_title": "아이언 마스크",
+                        "year": ["2018"],
+                        "role": "Louis XIV"
+                    }
+                ],
+                "variety_show":[
+                    {
+                        "id": 1,
+                        "title": "Law in the Jungle in Costa Rica",
+                        "korean_title": "정글의 법칙 in 코스타리카",
+                        "year": "2015",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Love Me Actually",
+                        "korean_title": "호구의 연애",
+                        "year": "2019",
+                        "network": "MBC"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "img": "assets/Woohyun/Woohyun.jpg",
+            "name": "Nam Woo Hyun",
+            "korean_name": "남우현",
+            "dob": "1991-02-08",
+            "hometown": "Seoul, South Korea",
+            "height": "176cm",
+            "blood_type": "B",
+            "position": "Main Vocal",
+            "nickname": "Namuheart, Namstepmother",
+            "instagram": "https://www.instagram.com/nwh91",
+            "twitter": "https://twitter.com/wowwh",
+            "discography":[
+                {
+                    "id":1,
+                    "album_name":"선인장",
+                    "release_date": "2013-02-28",
+                    "img": "assets/Woohyun/Cactus.jpg"
+                },
+                {
+                    "id":2,
+                    "album_name":"모던파머 OST Part 1",
+                    "release_date": "2014-10-24",
+                    "img": "assets/Woohyun/Modern Farmer.jpg",
+                    "track": ["사랑이 올 때", "사랑이 올 때 (Inst.)"]
+                },
+                {
+                    "id":3,
+                    "album_name":"Write..",
+                    "release_date": "2016-05-09",
+                    "img": "assets/Woohyun/Write.jpg",
+                    "track": ["Write..", "끄덕끄덕", "그 사람", "향기", "Gravity", "Stand by me"]
+                },
+                {
+                    "id":4,
+                    "album_name":"Second Write..",
+                    "release_date": "2018-09-03",
+                    "img": "assets/Woohyun/Second write.jpg",
+                    "track": ["Second Write..", "너만 괜찮다면", "You’re My Lady", "I Swear (feat. 동우 of INFINITE)", "Smile (feat. 김정모 of TraxX)", "같은자리", "사랑해"]
+                },
+                {
+                    "id":5,
+                    "album_name":"A New Journey",
+                    "release_date": "2019-05-07",
+                    "img": "assets/Woohyun/A New Journey.jpg",
+                    "track": ["A New Journey", "Hold On Me (feat. Junoflo)", "Rain", "Stranger", "Crying Baby", "넌 나만 바라봐", "Flower"]
+                },
+                {
+                    "id":6,
+                    "album_name":"지금 이 노래",
+                    "release_date": "2018-12-13",
+                    "img": "assets/Woohyun/A Song For You.jpg"
+                },
+                {
+                    "id":7,
+                    "album_name":"가을이 오면",
+                    "release_date": "2019-11-03",
+                    "img": "assets/Woohyun/When Fall Comes.jpg"
+                },
+                {
+                    "id":8,
+                    "album_name":"Toheart",
+                    "release_date": "2014-03-10",
+                    "img": "assets/Woohyun/Toheart.jpg",
+                    "track": ["Intro", "Delicious", "미로 (迷路)", "You're My Lady", "Tell Me Why", "출발"]
+                }
+            ],
+            "filmography":{
+                "drama":[
+                    {
+                        "id": 1,
+                        "title": "The Thousandth Man",
+                        "korean_title": "천 번째 남자",
+                        "year": "2012",
+                        "network": "MBC",
+                        "role": "Nam Woo Hyun",
+                        "note": "Supporting Role"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Hi School Love On",
+                        "korean_title": "하이스쿨: 러브온",
+                        "year": "2014",
+                        "network": "KBS2",
+                        "role": "Shin Woo Hyun",
+                        "note": "Lead Role"
+                    },
+                    {
+                        "id": 3,
+                        "title": "The Devil's Call",
+                        "korean_title": "악마가 너의 이름을 부를 때",
+                        "year": "2019",
+                        "network": "tvN",
+                        "role": "Cameo",
+                        "note": "Idol Festival Host"
+                    }
+                ],
+                "musical": [
+                    {
+                        "id": 1,
+                        "title": "Gwanghwamun Sonata",
+                        "korean_title": "광화문연가",
+                        "year": ["2012"],
+                        "role": "Jiyoung"
+                    },
+                    {
+                        "id": 2,
+                        "title": "I Love You, You're Perfect, Now Change",
+                        "korean_title": "아이러브유",
+                        "year": ["2018"],
+                        "role": "Lead Role"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Barnum: The Greatest Showman",
+                        "korean_title": "바넘 위대한쇼맨",
+                        "year": ["2018"],
+                        "role": "Amos Scudder"
+                    },
+                    {
+                        "id": 4,
+                        "title": "The Days",
+                        "korean_title": "그날들",
+                        "year": ["2018", "2019"],
+                        "role": "Mooyoung"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Mefisto",
+                        "korean_title": "메피스토",
+                        "year": ["2019"],
+                        "role": "Mefisto"
+                    }
+                ],
+                "variety_show":[
+                    {
+                        "id": 1,
+                        "title": "Photo People in Tokyo",
+                        "korean_title": "포토피플 인 도쿄",
+                        "year": "2018",
+                        "network": "Naver TV"
+                    }
+                ]
+            },
+            "tour":{
+                "concert":[
+                    {
+                        "id": 1,
+                        "title": "Arbor Day",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Seoul, South Korea",
+                                "venue": "Blue Square iMarket Hall",
+                                "date": "2 - 4 Nov 2018"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Taipei, Taiwan",
+                                "venue": "TICC",
+                                "date": "27 Apr 2019"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Macau",
+                                "venue": "Broadway Theatre, Broadway Macau",
+                                "date": "2 June 2019"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "Arbor Day 2",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Seoul, South Korea",
+                                "venue": "Jamsil Student Gymnasium",
+                                "date": "10 - 11 Aug 2019"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Tokyo, Japan",
+                                "venue": "Toyosu PIT",
+                                "date": "19 - 20 Sep 2019"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "title": "Arbor Day ON",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "",
+                                "venue": "",
+                                "date": "2 - 3 Oct 2021"
+                            }
+                        ]
+                    }
+                ],
+                "fan_meeting":[
+                    {
+                        "id": 1,
+                        "title": "Fan Meeting Rustled Up by Woohyun's Pestering",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Seoul, South Korea",
+                                "venue": "KBS Arena",
+                                "date": "19 Oct 2019"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "awards":[
+                {
+                    "year": "2015",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "Golden Disk Awards",
+                            "category": "Popularity Award",
+                            "work": "Toheart"
+                        }
+                    ]
+                },
+                {
+                    "year": "2016",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "8th Philippine Kpop Convention",
+                            "category": "Best Male Singer Award",
+                            "work": "Write.."
+                        }
+                    ]
+                },
+                {
+                    "year": "2019",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "Soribada Best K-Music Awards",
+                            "category": "Art-Tainer Award",
+                            "work": "A New Journey"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "img": "assets/Sungyeol/Sungyeol.jpg",
+            "name": "Lee Sung Yeol",
+            "korean_name": "이성열",
+            "dob": "1991-08-27",
+            "hometown": "Gyeonggi, South Korea",
+            "height": "183cm",
+            "blood_type": "B",
+            "position": "Vocal",
+            "nickname": "Choding",
+            "instagram": "https://www.instagram.com/leeseongyeol_1991",
+            "twitter": "https://twitter.com/seongyeol1991",
+            "filmography":{
+                "drama":[
+                    {
+                        "id": 1,
+                        "title": "Boys Over Flowers",
+                        "korean_title": "꽃보다 남자",
+                        "year": "2009",
+                        "network": "KBS2",
+                        "role": "Student",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Good Job, Good Job",
+                        "korean_title": "잘했군 잘했어",
+                        "year": "2009",
+                        "network": "MBC",
+                        "role": "Student",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Jolly Widows",
+                        "korean_title": "다함께 차차차",
+                        "year": "2009",
+                        "network": "KBS1",
+                        "role": "Student",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 4,
+                        "title": "While You Were Sleeping",
+                        "korean_title": "당신이 잠든 사이",
+                        "year": "2011",
+                        "network": "SBS",
+                        "role": "Yoon Sojoon",
+                        "note": "Supporting Role"
+                    },
+                    {
+                        "id": 5,
+                        "title": "Adolescence Medley",
+                        "korean_title": "사춘기 메들리",
+                        "year": "2013",
+                        "network": "KBS2",
+                        "role": "Student Council President",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 6,
+                        "title": "Love for Ten - Generation of Youth",
+                        "korean_title": "러브포텐 순정의시대",
+                        "year": "2013",
+                        "network": "Naver TV Cast",
+                        "role": "Jeong Giyeok",
+                        "note": "Main role"
+                    },
+                    {
+                        "id": 7,
+                        "title": "Hi School Love On",
+                        "korean_title": "하이스쿨: 러브온",
+                        "year": "2014",
+                        "network": "KBS2",
+                        "role": "Hwang Sungyeol",
+                        "note": "Lead Role"
+                    },
+                    {
+                        "id": 8,
+                        "title": "D-Day",
+                        "korean_title": "디데이",
+                        "year": "2015",
+                        "network": "JTBC",
+                        "role": "Ahn Daegil",
+                        "note": "Supporting Role"
+                    },
+                    {
+                        "id": 9,
+                        "title": "Love Returns",
+                        "korean_title": "미워도 사랑해",
+                        "year": "2017",
+                        "network": "KBS1",
+                        "role": "Hong Seokpyo",
+                        "note": "Lead Role"
+                    }
+                ],
+                "film": [
+                    {
+                        "id": 1,
+                        "title": "0.0MHz",
+                        "korean_title": "",
+                        "year": "2019",
+                        "role": "Sangyeob"
+                    }
+                ],
+                "musical": [
+                    {
+                        "id": 1,
+                        "title": "Return: The Promise of the Day",
+                        "korean_title": "귀환",
+                        "year": ["2019"],
+                        "role": "Jingu"
+                    }
+                ],
+                "variety_show":[
+                    {
+                        "id": 1,
+                        "title": "Law in the Jungle in Belize",
+                        "korean_title": "정글의 법칙 in 캐리비언",
+                        "year": "2013",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Law in the Jungle in Panama",
+                        "korean_title": "정글의 법칙 in 파나마",
+                        "year": "2016",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Law in the Jungle in Kota Manado",
+                        "korean_title": "정글의 법칙 in 코타 마나도",
+                        "year": "2016",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 4,
+                        "title": "2017 Woollim Pick",
+                        "korean_title": "2017 울림PICK",
+                        "year": "2017",
+                        "network": "Mnet"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "img": "assets/Myungsoo/Myungsoo.jpg",
+            "name": "Kim Myung Soo",
+            "korean_name": "김명수",
+            "dob": "1992-03-13",
+            "hometown": "Seoul, South Korea",
+            "height": "180cm",
+            "blood_type": "O",
+            "position": "Visual, Vocal",
+            "nickname": "L, Lcos",
+            "instagram": "https://www.instagram.com/kim_msl",
+            "twitter": "https://twitter.com/INFINITELKIM",
+            "youtube": "https://www.youtube.com/channel/UCp0m_0YNCXEVNnvSCO8SJnw",
+            "youtube_name": "묭묭튜브",
+            "discography":[
+                {
+                    "id":1,
+                    "album_name":"닥치고 꽃미남밴드 OST Part 5",
+                    "release_date": "2012-03-22",
+                    "img": "assets/Myungsoo/Love U Like U.jpg",
+                    "track": ["Love U Like U (feat. 김예림)"]
+                },
+                {
+                    "id":2,
+                    "album_name":"군주-가면의 주인 OST Part 14",
+                    "release_date": "2017-06-29",
+                    "img": "assets/Myungsoo/It's Okay.jpg",
+                    "track": ["내가 아니어도 좋아", "내가 아니어도 좋아 (Inst.)"]
+                },
+                {
+                    "id":3,
+                    "album_name":"단, 하나의 사랑 OST Part 3",
+                    "release_date": "2019-06-05",
+                    "img": "assets/Myungsoo/Night.jpg",
+                    "track": ["널 그리는 밤", "널 그리는 밤 (Inst.)"]
+                },
+                {
+                    "id":4,
+                    "album_name":"기억과 기억 사이",
+                    "release_date": "2021-02-03",
+                    "img": "assets/Myungsoo/Memory.jpg",
+                    "track": ["기억과 기억 사이", "기억과 기억 사이 (Inst.)"]
+                }
+            ],
+            "filmography":{
+                "drama":[
+                    {
+                        "id": 1,
+                        "title": "Jiu - Special Investigation Team",
+                        "korean_title": "ジウ 警視庁特殊犯捜査係",
+                        "year": "2011",
+                        "network": "TV Asahi",
+                        "role": "Jiu",
+                        "note": ""
+                    },
+                    {
+                        "id": 2,
+                        "title": "Shut Up Flower Boy Band",
+                        "korean_title": "닥치고 꽃미남 밴드",
+                        "year": "2012",
+                        "network": "tvN",
+                        "role": "Lee Hyunsoo",
+                        "note": ""
+                    },
+                    {
+                        "id": 3,
+                        "title": "Salamander Guru and The Shadows",
+                        "korean_title": "도롱뇽도사와 그림자 조작단",
+                        "year": "2012",
+                        "network": "SBS",
+                        "role": "L",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 4,
+                        "title": "What is Mom",
+                        "korean_title": "엄마가 뭐길래",
+                        "year": "2012",
+                        "network": "MBC",
+                        "role": "Kim Myungsoo",
+                        "note": ""
+                    },
+                    {
+                        "id": 5,
+                        "title": "Master's Sun",
+                        "korean_title": "주군의 태양",
+                        "year": "2013",
+                        "network": "SBS",
+                        "role": "Joo Joongwon (young)",
+                        "note": ""
+                    },
+                    {
+                        "id": 6,
+                        "title": "Cunning Single Lady",
+                        "korean_title": "앙큼한 돌싱녀",
+                        "year": "2014",
+                        "network": "MBC",
+                        "role": "Gil Yohan",
+                        "note": ""
+                    },
+                    {
+                        "id": 7,
+                        "title": "My Lovely Girl",
+                        "korean_title": "내겐 너무 사랑스러운 그녀",
+                        "year": "2014",
+                        "network": "SBS",
+                        "role": "Shiwoo",
+                        "note": ""
+                    },
+                    {
+                        "id": 8,
+                        "title": "The Time We Were Not in Love",
+                        "korean_title": "너를 사랑한 시간",
+                        "year": "2015",
+                        "network": "SBS",
+                        "role": "Ki Sungjae",
+                        "note": "Cameo"
+                    },
+                    {
+                        "id": 9,
+                        "title": "One More Time",
+                        "korean_title": "헤어진 다음날",
+                        "year": "2016",
+                        "network": "KBS2",
+                        "role": "Yoo Tan",
+                        "note": ""
+                    },
+                    {
+                        "id": 10,
+                        "title": "My Catman",
+                        "korean_title": "捡来的猫男",
+                        "year": "2016",
+                        "network": "MBC",
+                        "role": "Jung Hoyeon",
+                        "note": ""
+                    },
+                    {
+                        "id": 11,
+                        "title": "The Emperor: Owner of the Mask",
+                        "korean_title": "군주-가면의 주인",
+                        "year": "2017",
+                        "network": "MBC",
+                        "role": "Lee Sun",
+                        "note": ""
+                    },
+                    {
+                        "id": 12,
+                        "title": "Miss Hammurabi",
+                        "korean_title": "미스 함무라비",
+                        "year": "2018",
+                        "network": "JTBC",
+                        "role": "Im Ba-reun",
+                        "note": ""
+                    },
+                    {
+                        "id": 13,
+                        "title": "Angel's Last Mission: Love",
+                        "korean_title": "단, 하나의 사랑",
+                        "year": "2019",
+                        "network": "KBS2",
+                        "role": "Kim Dan",
+                        "note": ""
+                    },
+                    {
+                        "id": 14,
+                        "title": "Meow, the Secret Boy",
+                        "korean_title": "어서와",
+                        "year": "2020",
+                        "network": "KBS2",
+                        "role": "Hongjo",
+                        "note": ""
+                    },
+                    {
+                        "id": 15,
+                        "title": "Royal Secret Agent",
+                        "korean_title": "암행어사",
+                        "year": "2020",
+                        "network": "KBS2",
+                        "role": "Sung Yigyeom",
+                        "note": ""
+                    }
+                ],
+                "musical": [
+                ],
+                "variety_show":[
+                ]
+            },
+            "tour":{
+                "concert":[
+                ],
+                "fan_meeting":[
+                    {
+                        "id": 1,
+                        "title": "2017 Kim Myung Soo SOLO Fanmeeting",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Tokyo, Japan",
+                                "venue": "Zepp Tokyo",
+                                "date": "4 - 5 Sep 2017"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Osaka, Japan",
+                                "venue": "Zepp Namba",
+                                "date": "7 - 8 Sep 2017"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Taipei, Taiwan",
+                                "venue": "TICC",
+                                "date": "16 Sep 2017"
+                            },
+                            {
+                                "id": 4,
+                                "city": "Singapore",
+                                "venue": "Resorts World Theatre, Resorts World Sentosa",
+                                "date": "23 Sep 2017"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "2018 Kim Myung Soo SOLO Fanmeeting",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Tokyo, Japan",
+                                "venue": "Zepp Diver City",
+                                "date": "5 - 6 Jun 2018"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Nagoya, Japan",
+                                "venue": "Zepp Nagoya",
+                                "date": "8 Jun 2018"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Osaka, Japan",
+                                "venue": "Zepp Namba",
+                                "date": "11 - 12 Jun 2018"
+                            },
+                            {
+                                "id": 4,
+                                "city": "Seoul, South Korea",
+                                "venue": "Yonsei University",
+                                "date": "14 - 15 Jul 2018"
+                            },
+                            {
+                                "id": 5,
+                                "city": "Bangkok, Thailand",
+                                "venue": "Chaengwattana Hall, Central Chaengwattana",
+                                "date": "11 Aug 2018"
+                            },
+                            {
+                                "id": 6,
+                                "city": "Taipei, Taiwan",
+                                "venue": "Legacy Max",
+                                "date": "23 Sep 2018"
+                            },
+                            {
+                                "id": 7,
+                                "city": "New York, USA",
+                                "venue": "Pier 36",
+                                "date": "30 Sep 2018"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "title": "2019 Kim Myung Soo SOLO Fanmeeting",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Taipei, Taiwan",
+                                "venue": "TICC",
+                                "date": "1 Sep 2019"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "title": "2020 Kim Myung Soo SOLO Fanmeeting - Come With Me",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "Macau",
+                                "venue": "Broadway Theatre",
+                                "date": "5 Jan 2020"
+                            },
+                            {
+                                "id": 2,
+                                "city": "Manila, Phillipines",
+                                "venue": "New Frontier Theatre",
+                                "date": "12 Jan 2020"
+                            },
+                            {
+                                "id": 3,
+                                "city": "Saitama, Japan",
+                                "venue": "Sonic City Hall",
+                                "date": "18 Jan 2020"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "title": "2021 Kim Myung Soo Ontact Fanmeeting \"Remember US\"",
+                        "detail": [
+                            {
+                                "id": 1,
+                                "city": "",
+                                "venue": "",
+                                "date": "20 Feb 2021"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "awards":[
+                {
+                    "year": "2017",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "Seoul Webfest Awards",
+                            "category": "Special Award",
+                            "work": "My Catman"
+                        },
+                        {
+                            "id": 2,
+                            "award": "MBC Drama Awards",
+                            "category": "Popularity Award",
+                            "work": "The Emperor: Owner of the Mask"
+                        },
+                        {
+                            "id": 3,
+                            "award": "MBC Drama Awards",
+                            "category": "Best Character Award, Fighting Spirit Award",
+                            "work": "The Emperor: Owner of the Mask"
+                        }
+                    ]
+                },
+                {
+                    "year": "2018",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "3rd Asia Artist Awards",
+                            "category": "Best Icon",
+                            "work": ""
+                        }
+                    ]
+                },
+                {
+                    "year": "2019",
+                    "awards": [
+                        {
+                            "id": 1,
+                            "award": "2019 Asia Model Awards",
+                            "category": "Popular Star (Actor)",
+                            "work": "Angel's Last Mission: Love"
+                        },
+                        {
+                            "id": 2,
+                            "award": "33rd KBS Drama Awards",
+                            "category": "Best New Actor",
+                            "work": "Angel's Last Mission: Love"
+                        },
+                        {
+                            "id": 3,
+                            "award": "33rd KBS Drama Awards",
+                            "category": "Best Couple Award",
+                            "work": "Angel's Last Mission: Love"
+                        },
+                        {
+                            "id": 4,
+                            "award": "33rd KBS Drama Awards",
+                            "category": "K-Drama Hallyu Star",
+                            "work": "Angel's Last Mission: Love"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "img": "assets/Sungjong/Sungjong.jpg",
+            "name": "Lee Sung Jong",
+            "korean_name": "이성종",
+            "dob": "1993-09-03",
+            "hometown": "Gwangju, South Korea",
+            "height": "179cm",
+            "blood_type": "A",
+            "position": "Maknae, Vocal",
+            "nickname": "Lemon Candy, Jongderella",
+            "instagram": "https://www.instagram.com/ssongjjong.ifnt",
+            "twitter": "https://twitter.com/infiniteyounges",
+            "youtube": "https://www.youtube.com/channel/UC-QcUO88xTGJ7XEeiS6SI7Q",
+            "youtube_name": "이성종🍋",
+            "discography":[
+                {
+                    "id": 1,
+                    "album_name": "갑툭튀간호사 OST Part 1",
+                    "release_date": "2018-12-21",
+                    "img": "assets/Sungjong/beside me.jpg",
+                    "track": ["Beside Me"]
+                }
+            ],
+            "filmography":{
+                "drama":[
+                    {
+                        "id": 1,
+                        "title": "Mysterious Nurse",
+                        "korean_title": "갑툭튀간호사",
+                        "year": "2018",
+                        "network": "SBS Mobidic",
+                        "role": "Woo Hyunwoo",
+                        "note": ""
+                    }
+                ],
+                "musical": [
+                ],
+                "variety_show":[
+                    {
+                        "id": 1,
+                        "title": "Super Idol Chart Show",
+                        "korean_title": "슈퍼 아이돌 차트쇼",
+                        "year": "2014",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Stargram Season 2",
+                        "korean_title": "스타그램",
+                        "year": "2017",
+                        "network": "SBS Plus"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Law in the Jungle in Tonga",
+                        "korean_title": "정글의 법칙 in 통가",
+                        "year": "2016",
+                        "network": "SBS"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Sales King TV",
+                        "korean_title": "팔아야 귀국",
+                        "year": "2018",
+                        "network": "Channel A"
+                    }
+                ],
+                "radio_show":[
+                    {
+                        "id": 1,
+                        "title": "Midnight Black",
+                        "year": ["2018", "2019"],
+                        "network": "EBS"
+                    }
+                ]
+            }
+        }
+    ]
+}
