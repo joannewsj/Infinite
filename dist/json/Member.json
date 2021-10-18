@@ -3,7 +3,7 @@
     "member_list":[
         {
             "id": 1,
-            "img": "assets/Sunggyu/Sunggyu.jpg",
+            "img": "./assets/Sunggyu/Sunggyu.jpg",
             "name": "Kim Sung Kyu",
             "korean_name": "김성규",
             "dob": "1989-04-28",
