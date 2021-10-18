@@ -1,0 +1,147 @@
+@import '@/styles/base.scss';
+
+.profile{
+    .web-profile{
+        display: none;
+    }
+
+    .mobile-profile{
+        position: relative;
+        padding: 6vw 0;
+        width: 90vw;
+        margin: 0 auto;
+
+        .member{
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+
+            img{
+                width: 12vw;
+                border-radius: 50%;
+            }
+
+            .circle{
+                border: 1px solid;
+            }
+        }
+
+        .swipe{
+            position: relative;
+            padding-top: 6vw;
+            font-size: 3vw;
+            text-align: center;
+        }
+
+        .swiper-item{
+            position: relative;
+            width: 85vw;
+            margin: 0 auto;
+            padding-top: 10vw;
+            text-align: center;
+
+            .detail{
+                img{
+                    width: 100%;
+                }
+
+                .social{
+                    img{
+                        width: 5vw;
+                        margin-right: 4vw;
+                    }
+                }
+            }
+
+            .title{
+                font-size: 5vw;
+                font-weight: bold;
+                color: $first-color;
+                padding-bottom: 4vw;
+            }
+
+            .subcontent{
+                padding-bottom: 4vw;
+
+                .subtitle{
+                    font-size: 4vw;
+                    color: $first-color;
+                    font-weight: bold;
+                    padding: 2vw 0;
+                    text-align: left;
+                }
+            }
+
+            .subtitle-item{
+                text-align: left;
+
+                .subtitle-title{
+                    font-size: 3.8vw;
+                    font-weight: bold;
+                    color: $first-color-rgb;
+                }
+
+                .subtitle-subtitle{
+                    font-size: 3.6vw;
+                    font-weight: bold;
+                }
+
+                .subtitle-detail{
+                    font-size: 3.4vw;
+                    padding-top: 1vw;
+                    padding-bottom: 3vw;
+                    line-height: 1.5;
+                }
+
+                table{
+                    width: 100%;
+                    border-collapse: collapse;
+
+                    td{
+                        font-size: 3.5vw;
+                    }
+                }
+            }
+        }
+
+        .yellow{
+            color: $first-color;
+        }
+
+        ul{
+            text-align: left;
+            padding-inline-start: 4vw;
+
+            li{
+                font-size: 3.6vw;
+                padding-bottom: 2vw;
+            }
+        }
+        .discography{
+            .album{
+                position: relative;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+
+                .album-detail{
+                    width: 38vw;
+                    margin-bottom: 4vw;
+                    line-height: 1.8;
+
+                    img{
+                        width: 100%;
+                    }
+
+                    .album-name{
+                        font-size: 3vw;
+                    }
+
+                    .album-date{
+                        font-size: 2.6vw;
+                    }
+                }
+            }
+        }
+    }
+}

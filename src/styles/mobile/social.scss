@@ -1,0 +1,31 @@
+.web-social{
+    display: none;
+}
+
+.mobile-social{
+    position: relative;
+    padding: 6vw 0;
+    width: 90vw;
+    margin: 0 auto;
+
+    .title{
+        font-size: 5vw;
+        font-weight: bold;
+        text-align: center;
+        padding-bottom: 3vw;
+    }
+
+    .site-item{
+        display: flex;
+        align-items: center;
+
+        img{
+            width: 14vw;
+            margin-right: 4vw;
+        }
+
+        .icon{
+            width: 6vw;
+        }
+    }
+}

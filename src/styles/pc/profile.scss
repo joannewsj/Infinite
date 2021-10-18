@@ -1,0 +1,210 @@
+@import '@/styles/base.scss';
+
+.profile{
+    .web-profile{
+        position: relative;
+        width: 1000px;
+        margin: 0 auto;
+        padding: 30px 0 60px;
+
+        .member{
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+
+            .member-item{
+                display: flex;
+                align-items: center;
+                transition: 0.3s;
+                cursor: pointer;
+
+                img{
+                    width: 80px;
+                    border-radius: 50%;
+                }
+
+                .member-name{
+                    padding-left: 10px;
+                }
+
+                .circle{
+                    border: 1px solid rgba(255, 255, 255, 0.8);
+                }
+
+                .yellow{
+                    color: $first-color;
+                    font-weight: bold;
+                }
+
+                &:hover{
+                    transform: scale(1.1);
+                }
+            }
+        }
+
+        .member-detail{
+            position: relative;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding-top: 60px;
+
+            .detail{
+                position: relative;
+                font-size: 14px;
+                text-align: center;
+
+                img{
+                    width: 500px;
+                }
+
+                .social{
+                    display: flex;
+                    justify-content: center;
+
+                    img{
+                        width: 25px;
+                        margin-right: 10px;
+                        cursor: pointer;
+                    }
+                }
+
+                .choose-list{
+                    position: relative;
+                    padding-top: 20px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    width: 390px;
+
+                    .choose-item{
+                        cursor: pointer;
+                        width: 100px;
+                        margin: 5px 10px;
+                        padding: 10px 20px;
+                        border: 2px solid;
+                        border-radius: 10px;
+
+                        &:hover{
+                            color: $first-color;
+                        }
+                    }
+
+                    .clicked{
+                        color: $first-color;
+                        font-weight: bold;
+                        border-bottom: 2px solid;
+                        cursor: default;
+                    }
+                }
+            }
+        }
+
+        .content{
+            position: relative;
+
+            .content-detail{
+                .title{
+                    font-size: 28px;
+                    color: $first-color;
+                    font-weight: bold;
+                    padding-bottom: 10px;
+                    text-align: center;
+                    padding-top: 60px;
+                }
+
+                .subtitle{
+                    font-size: 20px;
+                    color: $first-color;
+                    font-weight: bold;
+                    padding: 20px 0;
+                }
+
+                .subcontent{
+                    padding-top: 20px;
+                }
+
+                table{
+                    width: 100%;
+                    border-collapse: collapse;
+
+                    td{
+                        padding: 10px 15px;
+                    }
+
+                    .table-title{
+                        font-weight: bold;
+                        color: $first-color-rgb;
+                        padding-top: 20px;
+                    }
+                }
+            }
+
+            .discography{
+                position: relative;
+                text-align: center;
+
+                .album{
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+
+                    .album-detail{
+                        position: relative;
+                        width: 300px;
+                        margin: 10px;
+
+                        img{
+                            width: 100%;
+                        }
+
+                        .overlay{
+                            position: absolute;
+                            top: 0;
+                            bottom: 0;
+                            left: 0;
+                            right: 0;
+                            height: 100%;
+                            width: 100%;
+                            opacity: 0;
+                            transition: .5s ease;
+                            background-color: rgba(0, 0, 0, 0.6);
+                            display: flex;
+                            justify-content: center;
+
+                            .overlay-text{
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                padding: 20px;
+                                line-height: 1.5;
+                                cursor: default;
+
+                                .album-name{
+                                    font-size: 20px;
+                                }
+
+                                .album-date{
+                                    font-size: 12px;
+                                }
+
+                                .album-track{
+                                    font-size: 13px;
+                                    padding-top: 10px;
+                                }
+                            }
+                        }
+
+                        &:hover .overlay{
+                            opacity: 1;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mobile-profile{
+        display: none;
+    }
+}

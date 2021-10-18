@@ -1,0 +1,48 @@
+@import '@/styles/base.scss';
+
+.web-social{
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-evenly;
+
+    .left, .right{
+        .site{
+            padding-bottom: 40px;
+
+            .site-title{
+                color: $first-color;
+                font-weight: bold;
+                padding-bottom: 10px;
+            }
+
+            .sites{
+                .site-item{
+                    display: flex;
+                    align-items: center;
+                    // line-height: 2;
+                    cursor: pointer;
+
+                    img{
+                        width: 60px;
+                        margin-right: 20px;
+                    }
+
+                    .icon{
+                        width: 30px;
+                    }
+
+                    &:hover{
+                        color: $first-color;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.mobile-social{
+    display: none;
+}

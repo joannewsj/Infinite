@@ -1,0 +1,57 @@
+@import '@/styles/base.scss';
+
+.web-discography{
+    display: none;
+}
+
+.mobile-discography{
+    position: relative;
+    padding: 6vw 0;
+    width: 90vw;
+    margin: 0 auto;
+
+    .title{
+        font-size: 5vw;
+        font-weight: bold;
+        text-align: center;
+        padding-bottom: 3vw;
+    }
+
+    .album{
+        position: relative;
+        padding-top: 4vw;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .album-detail{
+            width: 42vw;
+            margin-bottom: 4vw;
+
+            img{
+                width: 42vw;
+                height: 42vw;
+                object-fit: cover;
+            }
+
+            .album-track{
+                position: relative;
+                padding-top: 2vw;
+                font-size: 3.3vw;
+                line-height: 1.4;
+                text-align: center;
+
+                .name{
+                    color: $first-color;
+                    font-size: 3.6vw;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+
+    .el-pagination{
+        text-align: center;
+        padding-top: 4vw;
+    }
+}

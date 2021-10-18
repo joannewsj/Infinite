@@ -1,0 +1,54 @@
+@import '@/styles/base.scss';
+
+.web-header{
+    position: fixed;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    top: 0;
+    z-index: 10;
+    background-color: $background-color;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+
+    .left-logo{
+        width: 200px;
+
+        img{
+            width: 70px;
+        }
+    }
+
+    .right-content{
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+        .header-item{
+            margin: 0 20px;
+            a{
+                text-decoration: none;
+                font-size: 17px;
+                font-weight: bold;
+                color: white;
+
+                &.router-link-exact-active {
+                    color: $first-color;
+                }
+
+            }
+        }
+    }
+}
+
+.mobile-header{
+    display: none;
+}
+
+.active{
+    background-color: rgba(0, 0, 0, 0.9);
+    border-bottom: 0;
+}

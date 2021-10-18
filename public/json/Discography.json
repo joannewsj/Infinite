@@ -1,0 +1,401 @@
+{
+    "status": "true",
+    "album_type": [
+        {
+            "id": 1,
+            "name": "Extended Play"
+        },
+        {
+            "id": 2,
+            "name": "Studio Album"
+        },
+        {
+            "id": 3,
+            "name": "Single Album"
+        },
+        {
+            "id": 4,
+            "name": "Digital Single"
+        },
+        {
+            "id": 5,
+            "name": "Japanese Album"
+        },
+        {
+            "id": 6,
+            "name": "OST"
+        }
+    ],
+    "discography":[
+        {
+            "id": 1,
+            "album_name": "First Invasion",
+            "release_date": "2010-06-09",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/First Invasion.jpg",
+            "link":["Hi54WjHr-DA", "6NzVJYEcruw", "D_VF4uOq1kk"],
+            "track": ["∞", "다시 돌아와", "She's Back", "날개", "붙박이 별", "맡겨"]
+        },
+        {
+            "id": 2,
+            "album_name": "Evolution",
+            "release_date": "2011-01-06",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/Evolution.jpg",
+            "link":["JvNUilVWFDs", "F8s8v9Mj8XM", "ahoYH7uKJH8"],
+            "track": ["Evolution", "BTD (Before the Dawn)", "Can U Smile", "Hysterie", "마음으로..", "몰라"]
+        },
+        {
+            "id": 3,
+            "album_name": "Infinitize",
+            "release_date": "2012-05-15",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/Infinitize.jpg",
+            "link":["IOvV0M7V4bA", "RTXmhKapmCI", "HfA4qkpEKqo"],
+            "track": ["INFINITIZE", "추격자", "Feel So Bad", "그해 여름", "눈물만", "니가 좋다", "With…"]
+        },
+        {
+            "id": 4,
+            "album_name": "New Challenge",
+            "release_date": "2013-03-21",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/New Challenge.jpg",
+            "link":["2C-dsCaFJzE"],
+            "track": ["Welcome to Our Dream", "Man in Love(남자가 사랑할때)", "이보다 좋을순 없다", "그리움이 닿는 곳에", "Beautiful", "60초(INFINITE Ver.)", "불편한 진실"]
+        },
+        {
+            "id": 5,
+            "album_name": "Reality",
+            "release_date": "2015-07-13",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/Reality.jpg",
+            "link":["i1oTSAhdzNQ", "BNqW6uE-Q_o", "znxqh60w5p8"],
+            "track": ["Betting", "Bad", "Moonlight", "발걸음", "마주보며 서 있어", "러브레터", "엔딩을 부탁해"]
+        },
+        {
+            "id": 6,
+            "album_name": "Infinite Only",
+            "release_date": "2016-09-19",
+            "group_name": "Infinite",
+            "type": "Extended Play",
+            "img": "assets/Album/Infinite Only.jpg",
+            "link":["Cmhca-ROWwQ", "gddmou8hTD0", "0_CyXpP5dyY"],
+            "track": ["Eternity", "태풍 (The Eye)", "Air", "One Day", "True Love", "고마워", "Zero"]
+        },
+        {
+            "id": 7,
+            "album_name": "Over the Top",
+            "release_date": "2011-07-21",
+            "group_name": "Infinite",
+            "type": "Studio Album",
+            "img": "assets/Album/Over The Top.jpg",
+            "link":["tqC8AmuZuLI", "DeuejYoRbps", "amvKLtj6jVE"],
+            "track": ["Over the Top", "내꺼하자", "3 분의 1", "Tic Toc", "Julia", "Because (Sung Gyu solo)", "시간아 (Woo Hyun solo)", "Amazing", "Crying (Infinite H ft Baby Soul)", "Real Story"]
+        },
+        {
+            "id": 8,
+            "album_name": "Paradise",
+            "release_date": "2011-09-26",
+            "group_name": "Infinite",
+            "type": "Studio Album",
+            "img": "assets/Album/Paradise.jpg",
+            "link":["Sj0FvZGSzCo", "MoyzXXHDw3I"],
+            "track": ["Over the Top", "내꺼하자", "파라다이스", "Cover Girl", "3 분의 1", "Tic Toc", "Julia", "Because (Sung Gyu solo)", "시간아 (Woo Hyun solo)", "Amazing", "Crying (Infinite H ft Baby Soul)", "Real Story", "내꺼하자 (Remix Ver.)"]
+        },
+        {
+            "id": 9,
+            "album_name": "Season 2",
+            "release_date": "2014-05-21",
+            "group_name": "Infinite",
+            "type": "Studio Album",
+            "img": "assets/Album/Season 2.jpg",
+            "link":["L7kaScuQ0KM", "Keux-aGfoM4"],
+            "track": ["Season 2", "Last Romeo", "Follow Me", "로시난테", "숨 좀 쉬자", "Light (Sungkyu Solo)", "Alone (Infinite H)", "Memories", "나란 사람", "Reflex", "미치겠어 (Infinite F)", "눈을 감으면 (Woohyun Solo)", "소나기"]
+        },
+        {
+            "id": 10,
+            "album_name": "Be Back",
+            "release_date": "2014-07-22",
+            "group_name": "Infinite",
+            "type": "Studio Album",
+            "img": "assets/Album/Be Back.jpg",
+            "link":["YiiqHq_kNnU", "2nxNwzXIdtA", "pxsDPxRfV0E"],
+            "track": ["Season 2", "Last Romeo", "Back", "Diamond", "Follow Me", "로시난테", "숨 좀 쉬자", "Light (Sungkyu Solo)", "Alone (Infinite H)", "Memories", "나란 사람", "Reflex", "미치겠어 (Infinite F)", "눈을 감으면 (Woohyun Solo)", "소나기"]
+        },
+        {
+            "id": 11,
+            "album_name": "Top Seed",
+            "release_date": "2018-01-08",
+            "group_name": "Infinite",
+            "type": "Studio Album",
+            "img": "assets/Album/Top Seed.jpg",
+            "link":["TM-gCW45YHc", "nJm069UhlzQ"],
+            "track": ["Begin", "Tell Me", "Synchronise", "No More", "TGIF (Dongwoo solo)", "기도(메텔의 슬픔)", "왜 날", "분다", "I Hate", "지난 날 (L Solo)", "고백 (Sungjong Solo)", "Begin Again"]
+        },
+        {
+            "id": 12,
+            "album_name": "Inspirit",
+            "release_date": "2011-03-17",
+            "group_name": "Infinite",
+            "type": "Single Album",
+            "img": "assets/Album/Inspirit.jpg",
+            "link":["zpT4EkgSIQg", "7PKZzDyuPJg"],
+            "track": ["Nothing's Over", "Shot", "Can U Smile (Remake)"]
+        },
+        {
+            "id": 13,
+            "album_name": "Destiny",
+            "release_date": "2013-07-16",
+            "group_name": "Infinite",
+            "type": "Single Album",
+            "img": "assets/Album/Destiny.jpg",
+            "link":["BDbpE6qHDSA", "bv3GHQuPeig", "faRHkF1gznw"],
+            "track": ["Destiny", "Inception", "너에게 간다", "엄마"]
+        },
+        {
+            "id": 14,
+            "album_name": "She's Back",
+            "release_date": "2010-08-04",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/She's Back.jpg",
+            "link":["weIiaA-h4pk", "rL9r5rZHTgk"],
+            "track": ["She's Back", "She's Back (Remix)"]
+        },
+        {
+            "id": 15,
+            "album_name": "Can U Smile",
+            "release_date": "2011-05-09",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Inspirit.jpg",
+            "link":["PloIrFlzstw"],
+            "track": ["Can U Smile (Broadcasting Ver)"]
+        },
+        {
+            "id": 16,
+            "album_name": "하얀 고백 (Lately)",
+            "release_date": "2011-12-06",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Lately.jpg",
+            "link":["mZu3fRDrK5c", "tlCyUDwyUTQ"],
+            "track": ["하얀 고백 (Lately)"]
+        },
+        {
+            "id": 17,
+            "album_name": "Second Invasion",
+            "release_date": "2012-02-24",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Second Invasion.jpg",
+            "link":["Hwd6j4w-u1M"],
+            "track": ["Cover Girl (Live Ver)"]
+        },
+        {
+            "id": 18,
+            "album_name": "눈물만",
+            "release_date": "2012-05-08",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Only Tears.jpg",
+            "link":["H2Lz2AeEnZE"],
+            "track": ["눈물만", "눈물만 (Inst)"]
+        },
+        {
+            "id": 19,
+            "album_name": "Request",
+            "release_date": "2013-09-27",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Request.jpg",
+            "link":["HfI-wYRrp5s"],
+            "track": ["Request", "Request (Inst)"]
+        },
+        {
+            "id": 20,
+            "album_name": "그해여름 (두번째 이야기)",
+            "release_date": "2016-07-08",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/That Summer.jpg",
+            "link":["j5wO4XYnX7c"],
+            "track": ["그해여름 (두번째 이야기)"]
+        },
+        {
+            "id": 21,
+            "album_name": "CLOCK",
+            "release_date": "2019-02-13",
+            "group_name": "Infinite",
+            "type": "Digital Single",
+            "img": "assets/Album/Clock.jpg",
+            "link":["rtxfbnYMWaw"],
+            "track": ["CLOCK"]
+        },
+        {
+            "id": 22,
+            "album_name": "恋に落ちるとき",
+            "release_date": "2013-06-05",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/koi.jpg",
+            "link":["BA3R1rwFPy0","khe3qJEWIeU", "BlnCEsVcyS4"],
+            "track": ["Welcome to Our Dream", "Man in Love", "TO-RA-WA", "Tic Toc", "Timeless (Woohyun Solo)", "Be Mine", "Crying (Infinite H ft Becky", "Because (SungKyu solo)", "BTD (Before the Dawn)", "She's Back", "翼", "Julia"]
+        },
+        {
+            "id": 23,
+            "album_name": "Last Romeo ～君がいればいい～",
+            "release_date": "2014-07-02",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/Last Romeo Jpn.jpg",
+            "link":["DN5UgMfa1xM"],
+            "track": ["Last Romeo ～君がいればいい～", "僕という人", "Nothing's Over"]
+        },
+        {
+            "id": 24,
+            "album_name": "Dilemma",
+            "release_date": "2014-12-24",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/dilemma.jpg",
+            "link":["cUTMi0xzQeM"],
+            "track": ["Dilemma", "Back", "Diamond"]
+        },
+        {
+            "id": 25,
+            "album_name": "24時間",
+            "release_date": "2015-04-29",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/24.jpg",
+            "link":["K6NwFALAvFs", "mtnMSouC8Ik"],
+            "track": ["24時間", "Just Another Lonely Night", "Together"]
+        },
+        {
+            "id": 26,
+            "album_name": "For You",
+            "release_date": "2015-12-16",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/for you.jpg",
+            "link":["cUTMi0xzQeM", "K6NwFALAvFs"],
+            "track": ["Can't Get Over You", "Love of My Life", "Bad", "Dilemma", "Just Another Lonely Night", "Between Me & You", "Last Romeo ～君がいればいい～", "For You", "Nothing's Over", "24時間", "Back"]
+        },
+        {
+            "id": 27,
+            "album_name": "Air",
+            "release_date": "2017-05-24",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/air.jpg",
+            "link":["q_sED6MvoWU"],
+            "track": ["Air", "One Day", "Zero", "Toki", "Thank", "The Eye", "After Dark", "Waiting For The Moment", "Man in Love (Ava1anche Remix)", "Be Mine (Ava1anche Remix)", "True Love"]
+        },
+        {
+            "id": 28,
+            "album_name": "Best of Infinite",
+            "release_date": "2016-08-31",
+            "group_name": "Infinite",
+            "type": "Japanese Album",
+            "img": "assets/Album/best of infinite.jpg",
+            "link":["Qijtqax_KuY", "cUTMi0xzQeM", "K6NwFALAvFs"],
+            "track": ["D.N.A", "Dilemma", "Last Romeo ～君がいればいい～", "TO-RA-WA", "24時間", "Nothing's Over", "She's Back", "Man in Love", "Paradise", "Can't Get Over You", "Just Another Lonely Night", "Bad", "Be Mine", "BTD (Before the Dawn)", "Back", "Love of My Life", "Julia", "Destiny", "Cover Girl"]
+        },
+        {
+            "id": 29,
+            "album_name": "엄마가 뭐길래 OST Part 1",
+            "release_date": "2012-10-08",
+            "group_name": "Infinite",
+            "type": "OST",
+            "img": "assets/Album/fantasy.jpg",
+            "link":["4VFtbR9MK6s"],
+            "track": ["환상그녀", "환상그녀 (Inst.)"]
+        },
+        {
+            "id": 30,
+            "album_name": "Telemonster OST Part 1",
+            "release_date": "2014-10-31",
+            "group_name": "Infinite",
+            "type": "OST",
+            "img": "assets/Album/telemonster.jpg",
+            "link":["ManZPk6CSIs"],
+            "track": ["몬스터 타임"]
+        },
+        {
+            "id": 31,
+            "album_name": "GROW: 인피니트의 리얼 청춘 라이프OST",
+            "release_date": "2014-12-08",
+            "group_name": "Infinite",
+            "type": "OST",
+            "img": "assets/Album/together.jpg",
+            "link":["MikOKDhcHBA"],
+            "track": ["함께"]
+        },
+        {
+            "id": 32,
+            "album_name": "Fly High",
+            "release_date": "2013-01-11",
+            "group_name": "Infinite H",
+            "type": "Extended Play",
+            "img": "assets/Album/fly high.jpg",
+            "link":["vnEHiMVgEII", "ym9YBHkxEg0"],
+            "track": ["Victorious Way", "Special Girl (ft. Bumky)", "니가 없을 때 (ft. Zion.T)", "못해 (ft. 개코)", "Fly High (ft. Baby Soul)"]
+        },
+        {
+            "id": 33,
+            "album_name": "Fly Again",
+            "release_date": "2015-01-26",
+            "group_name": "Infinite H",
+            "type": "Extended Play",
+            "img": "assets/Album/fly again.jpg",
+            "link":["efK-S_R1tfk", "efgI9ySMKyk"],
+            "track": ["Fly Again (ft. DJ IT)", "예뻐", "어디안가 (ft. 양다일)", "부딪쳐 (ft. 류수정)", "바빠서 Sorry (ft. 스윙스, 샴페인)", "지킬 앤 하이드 (ft. 태완)", "니가 미치지 않고서야 (ft. 산체스)"]
+        },
+        {
+            "id": 34,
+            "album_name": "青",
+            "release_date": "2014-12-02",
+            "group_name": "Infinite F",
+            "type": "Single Album",
+            "img": "assets/Album/cheong.jpg",
+            "link":["4nHMNJczXb0"],
+            "track": ["가슴이 뛴다", "너라서", "My Girl"]
+        },
+        {
+            "id": 35,
+            "album_name": "恋のサイン",
+            "release_date": "2014-11-19",
+            "group_name": "Infinite F",
+            "type": "Japanese Album",
+            "img": "assets/Album/f.jpg",
+            "link":["4nHMNJczXb0"],
+            "track": ["恋のサイン", "君が好きだよ", "My Girl (Jpn ver)"]
+        },
+        {
+            "id": 36,
+            "album_name": "Toheart",
+            "release_date": "2014-03-10",
+            "group_name": "Toheart",
+            "type": "Extended Play",
+            "img": "assets/Album/toheart.jpg",
+            "link":["mdrz_e2mbtE" ,"twUlL7hpyE0"],
+            "track": ["Intro", "Delicious", "미로(迷路)", "You're My Lady", "Tell Me Why", "출발"]
+        },
+        {
+            "id": 37,
+            "album_name": "Tell Me Why",
+            "release_date": "2014-04-07",
+            "group_name": "Toheart",
+            "type": "Single Album",
+            "img": "assets/Album/tell me why.jpg",
+            "link":["ErKT_F8KRX8"],
+            "track": ["Tell Me Why (Broadcasting Ver.)", "Tell Me Why (Acoustic Ver.)"]
+        }
+    ]
+}

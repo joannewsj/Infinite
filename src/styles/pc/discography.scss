@@ -1,0 +1,149 @@
+@import '@/styles/base.scss';
+
+.web-discography{
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 60px 0;
+    text-align: center;
+
+    .title{
+        font-size: 28px;
+        color: $first-color;
+        font-weight: bold;
+    }
+
+    .selection{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 800px;
+        margin: 0 auto;
+        padding-top: 40px;
+        padding-bottom: 20px;
+
+        .item{
+            margin: 0 5px 15px;
+            background-color: rgba(255, 255, 255, 0.3);
+            box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.2);
+            padding: 10px 25px;
+            border-radius: 8px;
+            cursor: pointer;
+
+            &:hover{
+                background-color: rgba(255, 255, 255, 0.1);
+                box-shadow: none;
+            }
+        }
+
+        .clicked{
+            color: $first-color;
+            font-weight: bold;
+            letter-spacing: 0.5px;
+            background-color: rgba(255, 255, 255, 0.1);
+            box-shadow: none;
+        }
+    }
+
+    .album{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .album-detail{
+            position: relative;
+            width: 180px;
+            height: 180px;
+            margin: 10px;
+
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.2);
+                cursor: pointer;
+            }
+
+            .overlay{
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                opacity: 0;
+                width: 100%;
+                height: 100%;
+                transition: .5s ease;
+                background-color: rgba(0, 0, 0, 0.8);
+                display: flex;
+                justify-content: center;
+
+                .overlay-text{
+                    padding: 20px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+
+                    .album-name{
+                        font-size: 20px;
+                    }
+
+                    .album-date{
+                        font-size: 12px;
+                        padding-top: 5px;
+                    }
+                }
+            }
+
+            &:hover .overlay{
+                opacity: 1;
+            }
+        }
+    }
+
+    .el-pagination{
+        padding-top: 10px;
+    }
+
+    .album-track{
+        position: relative;
+        display: flex;
+        padding-top: 50px;
+        width: 780px;
+        margin: 0 auto;
+
+        .track-left{
+            width: 350px;
+
+            img{
+                width: 100%;
+            }
+        }
+
+        .track-right{
+            padding-left: 50px;
+            text-align: left;
+
+            .name{
+                font-size: 24px;
+                font-weight: bold;
+                color: $first-color;
+                padding-top: 10px;
+            }
+
+            .date{
+                font-size: 14px;
+                padding: 10px 0;
+            }
+
+            .track{
+                font-size: 16px;
+                line-height: 1.8;
+            }
+        }
+    }
+}
+
+.mobile-discography{
+    display: none;
+}

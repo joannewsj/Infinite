@@ -1,0 +1,53 @@
+@import '@/styles/base.scss';
+
+.web-header{
+    display: none;
+}
+
+.mobile-header{
+    .logo{
+        position: fixed;
+        width: 100%;
+        text-align: center;
+        background-color: $background-color;
+        z-index: 10;
+        padding: 3vw 0;
+        box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.2);
+
+        img{
+            width: 20vw;
+        }
+    }
+
+    .show-header{
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-color: $background-color;
+        z-index: 12;
+        text-align: center;
+        padding-top: 50%;
+
+        .close{
+            position: absolute;
+            right: 10vw;
+            top: 10vw;
+            font-size: 6vw;
+        }
+
+        .header-item{
+            padding-bottom: 6vw;
+            font-size: 5vw;
+
+            a{
+                color: white;
+                text-decoration: none;
+                font-weight: bold;
+
+                &.router-link-exact-active{
+                    color: $first-color;
+                }
+            }
+        }
+    }
+}
