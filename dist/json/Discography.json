@@ -33,7 +33,7 @@
             "release_date": "2010-06-09",
             "group_name": "Infinite",
             "type": "Extended Play",
-            "img": "assets/Album/First Invasion.jpg",
+            "img": "./assets/Album/First Invasion.jpg",
             "link":["Hi54WjHr-DA", "6NzVJYEcruw", "D_VF4uOq1kk"],
             "track": ["∞", "다시 돌아와", "She's Back", "날개", "붙박이 별", "맡겨"]
         },
